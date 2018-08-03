@@ -4,12 +4,15 @@ Django project for blog
 # Installation requirements:
 
 Django version=1.11
+
 Python=3.6
+
 Channels-redis=2.1.2
 
 # Virtual environment:
 
 sudo pip3.6 install virtualenv
+
 virtualenv venv -p python3.6
 
 # BLOG INTRODUCTION
