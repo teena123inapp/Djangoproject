@@ -22,11 +22,11 @@ The following are the steps to be followed
 
 3.HOME-This is where the user can add posts,delete posts,view posts,add comments,view comments,and chat
 
-                 1.POSTS-add,delete and view
+     1.POSTS-add,delete and view
   
-                 2.COMMENT-add,delete
+     2.COMMENT-add,delete
   
-                 3.CHAT-the user "A" logged in can start chat,the next user "B" need to open a new tab then log in and go to chat for communication
+     3.CHAT-the user "A" logged in can start chat,the next user "B" need to open a new tab then log in and go to chat for communication
   
 4.EDIT PROFILE-To edit profile details
 
