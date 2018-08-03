@@ -10,7 +10,7 @@
 			<p>{{ post.text|linebreaks }}</p>
 
 		<a href="{% url 'home:post_detail' pk=post.pk %}">Comments: {{ post.approved_comments.count }}</a>
-                <a href={% 
+                
 		</div>
 			{% endfor %}
 {%  endblock %}
